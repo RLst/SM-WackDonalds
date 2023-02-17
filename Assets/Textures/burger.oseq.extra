@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "d12bfba5-c19f-37cb-17de-081a3e09d533",
+      "b": ""
+    },
+    "extraType": "ResItemTextureSequence",
+    "name": "burger",
+    "objGuid": "Guid(15582662557316810936, 4869848469927730879)",
+    "rttiType": "AnimSeq",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 1,
+    "quality": 1,
+    "maxResolution": 512
+  }
+]

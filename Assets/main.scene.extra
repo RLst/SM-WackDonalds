@@ -221,6 +221,87 @@
   },
   {
     "guid": {
+      "a": "805c5295-1e50-afa3-5f2b-0457bb168c61",
+      "b": ""
+    },
+    "objGuid": "Guid(9460002367741755601, 11514537888506166941)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "fde92586-8315-073e-32e9-d1732a576993",
+      "b": ""
+    },
+    "objGuid": "Guid(14863255282229625368, 3928970724234014599)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "6b7128f6-876a-6bc2-646d-03ecca88f67f",
+      "b": ""
+    },
+    "objGuid": "Guid(2255212455909766251, 13863133538586695833)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
       "a": "6832190b-b745-41f4-5418-e5d4746eebf7",
       "b": ""
     },
@@ -275,10 +356,10 @@
   },
   {
     "guid": {
-      "a": "805c5295-1e50-afa3-5f2b-0457bb168c61",
+      "a": "70a2b049-e0b6-2c91-24b8-4f4853a40f39",
       "b": ""
     },
-    "objGuid": "Guid(9460002367741755601, 11514537888506166941)",
+    "objGuid": "Guid(6577767241054741948, 8774545437824586636)",
     "extraType": "IFTransform2d",
     "name": "2D Transform",
     "eulerAngle": [
@@ -313,7 +394,7 @@
     "isVisibleInInspector": true,
     "hideInPanel": false,
     "displayKey": "component_canvas",
-    "expanded": true,
+    "expanded": false,
     "editable": true
   },
   {
@@ -340,7 +421,7 @@
     },
     "objGuid": "Guid(11982451421268573354, 12044916805483607215)",
     "extraType": "Entity",
-    "name": "Start Game",
+    "name": "Top Trigger",
     "rttiType": "Entity",
     "version": "0.1.0",
     "isVisibleInInspector": true,
@@ -373,7 +454,7 @@
     },
     "objGuid": "Guid(15654644775241799254, 15760937753493271741)",
     "extraType": "Entity",
-    "name": "End Game",
+    "name": "Bottom Trigger",
     "rttiType": "Entity",
     "version": "0.1.0",
     "isVisibleInInspector": true,
@@ -406,7 +487,7 @@
     },
     "objGuid": "Guid(5639395366123622342, 893781392636952718)",
     "extraType": "Entity",
-    "name": "Game",
+    "name": "Burger 0",
     "rttiType": "Entity",
     "version": "0.1.0",
     "isVisibleInInspector": true,
@@ -420,6 +501,106 @@
       "b": ""
     },
     "objGuid": "Guid(8881379386954833031, 14132100965098212248)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": false,
+    "texture": "00000000-0000-0000-0000-00000000003e"
+  },
+  {
+    "guid": {
+      "a": "21347c09-b02e-20f5-04a0-dea81905018f",
+      "b": ""
+    },
+    "objGuid": "Guid(16378802346230804071, 5472457427737936029)",
+    "extraType": "AnimationSequence",
+    "name": "Animation Sequence",
+    "rttiType": "AnimSeqComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "component_aniseq",
+    "expanded": true,
+    "editable": true,
+    "sequence": "d12bfba5-c19f-37cb-17de-081a3e09d533",
+    "targetProperty": "Albedo",
+    "playMode": 0
+  },
+  {
+    "guid": {
+      "a": "a2f216db-b760-6fca-a1c5-8a9de5cd8f9c",
+      "b": ""
+    },
+    "objGuid": "Guid(8739684151877036612, 13704451295604657567)",
+    "extraType": "Entity",
+    "name": "Triggers",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "c4463eb6-294f-cd65-728e-c5fd693056e1",
+      "b": ""
+    },
+    "objGuid": "Guid(16736484139022258614, 455082978890752162)",
+    "extraType": "Entity",
+    "name": "Head Eating Collider 0",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "3bb5bd51-3c0c-0b4f-e505-ac69089f00cd",
+      "b": ""
+    },
+    "objGuid": "Guid(3045289327244443813, 17079086940332538761)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": false,
+    "texture": "00000000-0000-0000-0000-00000000003e"
+  },
+  {
+    "guid": {
+      "a": "875f5551-918e-41a3-315c-5bcc9a25cbe4",
+      "b": ""
+    },
+    "objGuid": "Guid(5208574691224362333, 3670719594943254400)",
+    "extraType": "Entity",
+    "name": "Burger Collider 0",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "091b160d-80ad-c25d-d4e0-f641859b469b",
+      "b": ""
+    },
+    "objGuid": "Guid(16377094220742815436, 7806843178336096925)",
     "extraType": "IFSprite2d",
     "name": "Image",
     "rttiType": "IFSprite2d",
