@@ -342,7 +342,7 @@ entities:
         name: ""
         guid: {a: 3045289327244443813, b: 17079086940332538761}
         enabled: true
-        alpha: 1
+        alpha: 0.1000000014901161
         cascadeAlphaEnabled: false
         type:
           __class: IFSprite2dType
@@ -393,7 +393,7 @@ entities:
         name: ""
         guid: {a: 16377094220742815436, b: 7806843178336096925}
         enabled: true
-        alpha: 1
+        alpha: 0.1000000014901161
         cascadeAlphaEnabled: false
         type:
           __class: IFSprite2dType
@@ -593,7 +593,7 @@ mobility:
 position: {x: 0, y: 95.02735}
 rotation: 0
 scale: {x: 1, y: 1}
-size: {x: 100, y: 100}
+size: {x: 125, y: 125}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
