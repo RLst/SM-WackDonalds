@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "77ee9425-86e4-fc63-aea8-a090520ba2a4",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "bite",
+    "objGuid": "Guid(9313584076465516687, 9233230724085686935)",
+    "rttiType": "AudioClip",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "mccState": "SUCCESS"
+  }
+]

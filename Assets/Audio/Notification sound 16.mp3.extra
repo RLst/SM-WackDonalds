@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "7f84b4b9-aed8-5235-0cf4-3ddd1946fd88",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "Notification sound 16",
+    "objGuid": "Guid(9460102338815700296, 13809550561507414710)",
+    "rttiType": "AudioClip",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "mccState": "SUCCESS"
+  }
+]
