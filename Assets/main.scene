@@ -76,7 +76,7 @@ entities:
           value: Normal
         blendAlpha: 1
         blendAlphaCkeck: true
-        drawCallNum: 3
+        drawCallNum: 4
         maskType:
           __class: IFMaskType
           value: None
@@ -269,7 +269,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: 00000000-0000-0000-0000-00000000003e--00000000-0000-0000-0000-00000000003e.png}
+        texture: {localId: 1, path: Library/Artifact/d12bfba5-c19f-37cb-17de-081a3e09d533/4.png}
+        imageAtlas: {localId: 1, path: d12bfba5-c19f-37cb-17de-081a3e09d533--4.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -299,7 +300,7 @@ entities:
       - __class: AnimSeqComponent
         name: ""
         guid: {a: 16378802346230804071, b: 5472457427737936029}
-        enabled: false
+        enabled: true
         animSeq: {localId: 7, path: d12bfba5-c19f-37cb-17de-081a3e09d533--d12bfba5-c19f-37cb-17de-081a3e09d533.seq}
         texName: Albedo
         frameName: _MainTex_ST
