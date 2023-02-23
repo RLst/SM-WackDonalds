@@ -703,63 +703,6 @@
   },
   {
     "guid": {
-      "a": "9e241c76-efb3-1c06-2ef4-55357b4d910a",
-      "b": ""
-    },
-    "objGuid": "Guid(5639395366123622342, 893781392636952718)",
-    "extraType": "Entity",
-    "name": "Item 0",
-    "rttiType": "Entity",
-    "version": "0.1.0",
-    "isVisibleInInspector": true,
-    "hideInPanel": false,
-    "createdBy": "LegacyProject",
-    "expanded": true,
-    "type": "none",
-    "createdEffectNodeKey": ""
-  },
-  {
-    "guid": {
-      "a": "7125596a-022f-b85d-477c-41a34bb34d7a",
-      "b": ""
-    },
-    "objGuid": "Guid(8881379386954833031, 14132100965098212248)",
-    "extraType": "IFSprite2d",
-    "name": "Image",
-    "rttiType": "IFSprite2d",
-    "version": "0.1.0",
-    "isVisibleInInspector": true,
-    "hideInPanel": false,
-    "createdBy": "LegacyProject",
-    "displayKey": "inspector_add_image",
-    "expanded": true,
-    "editable": true,
-    "advanced": false,
-    "texture": "00000000-0000-0000-0000-00000000003e",
-    "textureType": "ResItemPNGImage"
-  },
-  {
-    "guid": {
-      "a": "21347c09-b02e-20f5-04a0-dea81905018f",
-      "b": ""
-    },
-    "objGuid": "Guid(16378802346230804071, 5472457427737936029)",
-    "extraType": "AnimationSequence",
-    "name": "Animation Sequence",
-    "rttiType": "AnimSeqComponent",
-    "version": "0.1.0",
-    "isVisibleInInspector": true,
-    "hideInPanel": false,
-    "createdBy": "LegacyProject",
-    "displayKey": "component_aniseq",
-    "expanded": true,
-    "editable": true,
-    "sequence": "d12bfba5-c19f-37cb-17de-081a3e09d533",
-    "targetProperty": "Albedo",
-    "playMode": 0
-  },
-  {
-    "guid": {
       "a": "a2f216db-b760-6fca-a1c5-8a9de5cd8f9c",
       "b": ""
     },
@@ -798,43 +741,6 @@
       "b": ""
     },
     "objGuid": "Guid(3045289327244443813, 17079086940332538761)",
-    "extraType": "IFSprite2d",
-    "name": "Image",
-    "rttiType": "IFSprite2d",
-    "version": "0.1.0",
-    "isVisibleInInspector": true,
-    "hideInPanel": false,
-    "createdBy": "LegacyProject",
-    "displayKey": "inspector_add_image",
-    "expanded": true,
-    "editable": true,
-    "advanced": false,
-    "texture": "00000000-0000-0000-0000-00000000003e",
-    "textureType": "ResItemPNGImage"
-  },
-  {
-    "guid": {
-      "a": "875f5551-918e-41a3-315c-5bcc9a25cbe4",
-      "b": ""
-    },
-    "objGuid": "Guid(5208574691224362333, 3670719594943254400)",
-    "extraType": "Entity",
-    "name": "Burger Collider 0",
-    "rttiType": "Entity",
-    "version": "0.1.0",
-    "isVisibleInInspector": true,
-    "hideInPanel": false,
-    "createdBy": "LegacyProject",
-    "expanded": true,
-    "type": "none",
-    "createdEffectNodeKey": ""
-  },
-  {
-    "guid": {
-      "a": "091b160d-80ad-c25d-d4e0-f641859b469b",
-      "b": ""
-    },
-    "objGuid": "Guid(16377094220742815436, 7806843178336096925)",
     "extraType": "IFSprite2d",
     "name": "Image",
     "rttiType": "IFSprite2d",
@@ -1186,7 +1092,7 @@
     },
     "objGuid": "Guid(11043644357575484811, 4883084581616782525)",
     "extraType": "Entity",
-    "name": "Burger Collider 0",
+    "name": "Item Collider 1",
     "rttiType": "Entity",
     "version": "0.1.0",
     "isVisibleInInspector": true,
@@ -1437,7 +1343,7 @@
     },
     "objGuid": "Guid(18468533371072604, 8766365853903746195)",
     "extraType": "Entity",
-    "name": "Burger Collider 0",
+    "name": "Item Collider 2",
     "rttiType": "Entity",
     "version": "0.1.0",
     "isVisibleInInspector": true,
@@ -1520,7 +1426,7 @@
     "displayKey": "component_aniseq",
     "expanded": true,
     "editable": true,
-    "sequence": "d12bfba5-c19f-37cb-17de-081a3e09d533",
+    "sequence": "fa1b84a0-df4e-ea59-57b6-5494bd99e634",
     "targetProperty": "Albedo",
     "playMode": 0
   },
@@ -1531,7 +1437,7 @@
     },
     "objGuid": "Guid(14073320491748941365, 3080069547944285860)",
     "extraType": "Entity",
-    "name": "Burger Collider 0",
+    "name": "Item Collider 3",
     "rttiType": "Entity",
     "version": "0.1.0",
     "isVisibleInInspector": true,
@@ -1614,8 +1520,102 @@
     "displayKey": "component_aniseq",
     "expanded": true,
     "editable": true,
+    "sequence": "fa1b84a0-df4e-ea59-57b6-5494bd99e634",
+    "targetProperty": "Albedo",
+    "playMode": 0
+  },
+  {
+    "guid": {
+      "a": "9e241c76-efb3-1c06-2ef4-55357b4d910a",
+      "b": ""
+    },
+    "objGuid": "Guid(5639395366123622342, 893781392636952718)",
+    "extraType": "Entity",
+    "name": "Item 0",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "LegacyProject",
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "7125596a-022f-b85d-477c-41a34bb34d7a",
+      "b": ""
+    },
+    "objGuid": "Guid(8881379386954833031, 14132100965098212248)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "LegacyProject",
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": false,
+    "texture": "00000000-0000-0000-0000-00000000003e",
+    "textureType": "ResItemPNGImage"
+  },
+  {
+    "guid": {
+      "a": "21347c09-b02e-20f5-04a0-dea81905018f",
+      "b": ""
+    },
+    "objGuid": "Guid(16378802346230804071, 5472457427737936029)",
+    "extraType": "AnimationSequence",
+    "name": "Animation Sequence",
+    "rttiType": "AnimSeqComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "LegacyProject",
+    "displayKey": "component_aniseq",
+    "expanded": true,
+    "editable": true,
     "sequence": "d12bfba5-c19f-37cb-17de-081a3e09d533",
     "targetProperty": "Albedo",
     "playMode": 0
+  },
+  {
+    "guid": {
+      "a": "875f5551-918e-41a3-315c-5bcc9a25cbe4",
+      "b": ""
+    },
+    "objGuid": "Guid(5208574691224362333, 3670719594943254400)",
+    "extraType": "Entity",
+    "name": "Item Collider 0",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "LegacyProject",
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "091b160d-80ad-c25d-d4e0-f641859b469b",
+      "b": ""
+    },
+    "objGuid": "Guid(16377094220742815436, 7806843178336096925)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "LegacyProject",
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": false,
+    "texture": "00000000-0000-0000-0000-00000000003e",
+    "textureType": "ResItemPNGImage"
   }
 ]
