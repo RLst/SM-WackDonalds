@@ -8,13 +8,19 @@
 			"type": "Double",
 			"item_type": "",
 			"description": "The number of seconds elapsed since the effect started",
-			"displayType": "Number"
+			"displayType": "Number",
+			"nameKey": "graph_get_time_output_timeinseconds",
+			"descriptionKey": "graph_get_time_output_timeinseconds_description",
+			"displayTypeKey": "graph_type_number"
 		},
 		{
 			"name": "Delta Time",
 			"description": "The number of seconds elapsed since last frame",
 			"type": "Double",
-			"displayType": "Number"
+			"displayType": "Number",
+			"nameKey": "graph_get_time_output_deltatime",
+			"descriptionKey": "graph_get_time_output_deltatime_description",
+			"displayTypeKey": "graph_type_number"
 		}
 	],
 	"js": "CGGetTime.js",
@@ -23,7 +29,12 @@
 	"nodeEvent": "onUpdate",
 	"description": "Get the total time since the effect started and the time difference since last frame. ",
 	"productTypes": [
-		"TTEH"
+		"TTEH",
+		"DYEH",
+		"EHI"
 	],
-	"onlineWebsite": "https://effecthouse.tiktok.com/learn/visual-scripting/Time/Get-Time"
+	"onlineWebsite": "https://effecthouse.tiktok.com/learn/visual-scripting/Time/Get-Time",
+	"nameKey": "graph_get_time_name",
+	"categoryKey": "graph_category_time",
+	"descriptionKey": "graph_get_time_description"
 }

@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "f2c77f86-b2a4-a2c6-e61c-67ff6187c38a",
+      "a": "32f10ef1-6565-5137-29c1-f21435b0be0a",
       "b": ""
     },
     "extraType": "ResItemSegmentationAsset",
-    "name": "Portrait Segmentation Texture",
-    "expandInPanel": true,
-    "objGuid": "Guid(12339959215016165970, 5270279437648808871)",
+    "name": "Portrait Segmentation Texture (1)",
+    "expandInPanel": false,
+    "objGuid": "Guid(4559082820428361727, 11114037707918902929)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "createdBy": "LegacyProject",
+    "createdBy": "Unregistered",
     "type": "texture",
     "subtype": "segmentation",
     "propertyMap": [

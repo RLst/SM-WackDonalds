@@ -6,11 +6,13 @@
     },
     "extraType": "ResItemMP3",
     "name": "Notification sound 16",
-    "objGuid": "Guid(9460102338815700296, 13809550561507414710)",
+    "expandInPanel": true,
+    "objGuid": "Guid(7944666099943432730, 3077571218423333790)",
     "rttiType": "AudioClip",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
+    "createdBy": "LegacyProject",
     "mccState": "SUCCESS"
   }
 ]

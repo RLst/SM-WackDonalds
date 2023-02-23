@@ -7,35 +7,50 @@
 			"type": "Double",
 			"item_type": "",
 			"description": "The value to remap",
-			"displayType": "Number"
+			"displayType": "Number",
+			"nameKey": "graph_remap_input_a",
+			"descriptionKey": "graph_remap_input_a_description",
+			"displayTypeKey": "graph_type_number"
 		},
 		{
 			"name": "Input Min",
 			"type": "Double",
 			"item_type": "",
 			"description": "The lower bound of the old range",
-			"displayType": "Number"
+			"displayType": "Number",
+			"nameKey": "graph_remap_input_inputmin",
+			"descriptionKey": "graph_remap_input_inputmin_description",
+			"displayTypeKey": "graph_type_number"
 		},
 		{
 			"name": "Input Max",
 			"type": "Double",
 			"item_type": "",
 			"description": "The upper bound of the old range",
-			"displayType": "Number"
+			"displayType": "Number",
+			"nameKey": "graph_remap_input_inputmax",
+			"descriptionKey": "graph_remap_input_inputmax_description",
+			"displayTypeKey": "graph_type_number"
 		},
 		{
 			"name": "Output Min",
 			"type": "Double",
 			"item_type": "",
 			"description": "The lower bound of the new range",
-			"displayType": "Number"
+			"displayType": "Number",
+			"nameKey": "graph_remap_input_outputmin",
+			"descriptionKey": "graph_remap_input_outputmin_description",
+			"displayTypeKey": "graph_type_number"
 		},
 		{
 			"name": "Output Max",
 			"type": "Double",
 			"item_type": "",
 			"description": "The upper bound of the new range",
-			"displayType": "Number"
+			"displayType": "Number",
+			"nameKey": "graph_remap_input_outputmax",
+			"descriptionKey": "graph_remap_input_outputmax_description",
+			"displayTypeKey": "graph_type_number"
 		},
 		{
 			"name": "Clamp",
@@ -43,7 +58,10 @@
 			"default_value": false,
 			"item_type": "",
 			"description": "This value is false by default. When it is set to true, clamp the input value A between Output Min and Output Max.",
-			"displayType": "Boolean"
+			"displayType": "Boolean",
+			"nameKey": "graph_remap_input_clamp",
+			"descriptionKey": "graph_remap_input_clamp_description",
+			"displayTypeKey": "graph_type_boolean"
 		}
 	],
 	"outputs": [
@@ -52,7 +70,10 @@
 			"type": "Double",
 			"item_type": "",
 			"description": "The remapped value",
-			"displayType": "Number"
+			"displayType": "Number",
+			"nameKey": "graph_remap_output_result",
+			"descriptionKey": "graph_remap_output_result_description",
+			"displayTypeKey": "graph_type_number"
 		}
 	],
 	"js": "CGReMap.js",
@@ -60,8 +81,11 @@
 	"category": "Math",
 	"description": "Remap a value from an old range to a new range.",
 	"productTypes": [
-		"InHouse",
-		"Domestic",
-		"TTEH"
-	]
+		"TTEH",
+		"DYEH",
+		"EHI"
+	],
+	"nameKey": "graph_remap_name",
+	"categoryKey": "graph_category_math",
+	"descriptionKey": "graph_remap_description"
 }

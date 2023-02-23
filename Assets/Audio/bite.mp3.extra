@@ -6,11 +6,13 @@
     },
     "extraType": "ResItemMP3",
     "name": "bite",
-    "objGuid": "Guid(9313584076465516687, 9233230724085686935)",
+    "expandInPanel": true,
+    "objGuid": "Guid(11910479781694959659, 12269419660072700556)",
     "rttiType": "AudioClip",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
+    "createdBy": "LegacyProject",
     "mccState": "SUCCESS"
   }
 ]
