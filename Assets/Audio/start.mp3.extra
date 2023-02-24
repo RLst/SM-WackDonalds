@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "403b9fc4-0e5f-b3b1-f749-747d0555b335",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "start",
+    "expandInPanel": false,
+    "objGuid": "Guid(13204908193729957710, 14637456244479773320)",
+    "rttiType": "AudioClip",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Unregistered",
+    "mccState": "SUCCESS"
+  }
+]
