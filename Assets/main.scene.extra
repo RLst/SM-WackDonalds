@@ -305,6 +305,118 @@
   },
   {
     "guid": {
+      "a": "00fa0456-e28b-6945-9923-35195674265e",
+      "b": ""
+    },
+    "objGuid": "Guid(2540788615090440757, 14173050262392890808)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Duplicate",
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "9fe95fa1-9ae3-2678-8d68-9188bb9ca594",
+      "b": ""
+    },
+    "objGuid": "Guid(13277768026080735470, 9400764294969357500)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Duplicate",
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "2f493a76-1c00-9ff0-c50d-3548891b56c8",
+      "b": ""
+    },
+    "objGuid": "Guid(6575483014815904589, 16477173109176707497)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Duplicate",
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "2fc0ae8c-94b4-a539-2265-432b7f7f9386",
+      "b": ""
+    },
+    "objGuid": "Guid(11908618419270351261, 5985961222598672801)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Duplicate",
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
       "a": "bbf793ad-5067-555d-477e-ad29acf07a11",
       "b": ""
     },
@@ -714,7 +826,7 @@
     "isVisibleInInspector": true,
     "hideInPanel": false,
     "createdBy": "LegacyProject",
-    "expanded": true,
+    "expanded": false,
     "type": "none",
     "createdEffectNodeKey": ""
   },
@@ -1135,7 +1247,7 @@
     "isVisibleInInspector": true,
     "hideInPanel": false,
     "createdBy": "Duplicate",
-    "expanded": true,
+    "expanded": false,
     "type": "none",
     "createdEffectNodeKey": ""
   },
@@ -1343,7 +1455,7 @@
     },
     "objGuid": "Guid(18468533371072604, 8766365853903746195)",
     "extraType": "Entity",
-    "name": "Item Collider 2",
+    "name": "Item Collider 4",
     "rttiType": "Entity",
     "version": "0.1.0",
     "isVisibleInInspector": true,
@@ -1380,13 +1492,13 @@
     },
     "objGuid": "Guid(1749776446125956956, 8703527987125562281)",
     "extraType": "Entity",
-    "name": "Item 2",
+    "name": "Item 4",
     "rttiType": "Entity",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
     "createdBy": "Duplicate",
-    "expanded": true,
+    "expanded": false,
     "type": "none",
     "createdEffectNodeKey": ""
   },
@@ -1437,7 +1549,7 @@
     },
     "objGuid": "Guid(14073320491748941365, 3080069547944285860)",
     "extraType": "Entity",
-    "name": "Item Collider 3",
+    "name": "Item Collider 5",
     "rttiType": "Entity",
     "version": "0.1.0",
     "isVisibleInInspector": true,
@@ -1474,13 +1586,13 @@
     },
     "objGuid": "Guid(1031163883636640882, 4025635025988828814)",
     "extraType": "Entity",
-    "name": "Item 3",
+    "name": "Item 5",
     "rttiType": "Entity",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
     "createdBy": "Duplicate",
-    "expanded": true,
+    "expanded": false,
     "type": "none",
     "createdEffectNodeKey": ""
   },
@@ -1537,7 +1649,7 @@
     "isVisibleInInspector": true,
     "hideInPanel": false,
     "createdBy": "LegacyProject",
-    "expanded": true,
+    "expanded": false,
     "type": "none",
     "createdEffectNodeKey": ""
   },
@@ -1617,5 +1729,193 @@
     "advanced": false,
     "texture": "00000000-0000-0000-0000-00000000003e",
     "textureType": "ResItemPNGImage"
+  },
+  {
+    "guid": {
+      "a": "f97f751f-54cd-6987-ab2d-2f5e0a1217db",
+      "b": ""
+    },
+    "objGuid": "Guid(12918465157796301421, 4122668812089147826)",
+    "extraType": "Entity",
+    "name": "Item Collider 2",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Duplicate",
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "c2af0259-e07c-4290-3516-a50734e61111",
+      "b": ""
+    },
+    "objGuid": "Guid(2613020908006929594, 7704434082899617208)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Duplicate",
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": false,
+    "texture": "00000000-0000-0000-0000-00000000003e",
+    "textureType": "ResItemPNGImage"
+  },
+  {
+    "guid": {
+      "a": "ac54201b-224d-4ab1-1ce0-41d28e72886d",
+      "b": ""
+    },
+    "objGuid": "Guid(16379392184460962739, 18175429465388504753)",
+    "extraType": "Entity",
+    "name": "Item 2",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Duplicate",
+    "expanded": false,
+    "type": "none",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "28ed0bbc-79da-55d6-0d83-9449c5e7f60f",
+      "b": ""
+    },
+    "objGuid": "Guid(15366418078128151569, 18175176368337956287)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Duplicate",
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": false,
+    "texture": "00000000-0000-0000-0000-00000000003e",
+    "textureType": "ResItemPNGImage"
+  },
+  {
+    "guid": {
+      "a": "bd98f6a6-6050-1817-4beb-02f9e151de3a",
+      "b": ""
+    },
+    "objGuid": "Guid(6360377431763789370, 16733269833278036636)",
+    "extraType": "AnimationSequence",
+    "name": "Animation Sequence",
+    "rttiType": "AnimSeqComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Duplicate",
+    "displayKey": "component_aniseq",
+    "expanded": true,
+    "editable": true,
+    "sequence": "d12bfba5-c19f-37cb-17de-081a3e09d533",
+    "targetProperty": "Albedo",
+    "playMode": 0
+  },
+  {
+    "guid": {
+      "a": "725d282f-3e36-e255-45db-d613d61bf3c2",
+      "b": ""
+    },
+    "objGuid": "Guid(17459165468209234839, 2623269696283554494)",
+    "extraType": "Entity",
+    "name": "Item Collider 3",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Duplicate",
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "17aa5536-dd5d-5620-b09c-22c7927e2275",
+      "b": ""
+    },
+    "objGuid": "Guid(4055929813160789616, 13738742092135664793)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Duplicate",
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": false,
+    "texture": "00000000-0000-0000-0000-00000000003e",
+    "textureType": "ResItemPNGImage"
+  },
+  {
+    "guid": {
+      "a": "b9b3ea36-466a-6243-d93b-c94b3fc59d6f",
+      "b": ""
+    },
+    "objGuid": "Guid(13351015724621968146, 5068813455651040439)",
+    "extraType": "Entity",
+    "name": "Item 3",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Duplicate",
+    "expanded": false,
+    "type": "none",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "b5c58177-c30d-3aad-c160-a5133b950140",
+      "b": ""
+    },
+    "objGuid": "Guid(14286109199280597387, 1278542031961354396)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Duplicate",
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": false,
+    "texture": "00000000-0000-0000-0000-00000000003e",
+    "textureType": "ResItemPNGImage"
+  },
+  {
+    "guid": {
+      "a": "c3347384-50b9-5182-a32d-474261d8a3dd",
+      "b": ""
+    },
+    "objGuid": "Guid(6290134652722238978, 17431909181867294143)",
+    "extraType": "AnimationSequence",
+    "name": "Animation Sequence",
+    "rttiType": "AnimSeqComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Duplicate",
+    "displayKey": "component_aniseq",
+    "expanded": true,
+    "editable": true,
+    "sequence": "d12bfba5-c19f-37cb-17de-081a3e09d533",
+    "targetProperty": "Albedo",
+    "playMode": 0
   }
 ]
