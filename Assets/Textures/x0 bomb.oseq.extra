@@ -1,0 +1,20 @@
+[
+  {
+    "guid": {
+      "a": "a17475f5-c45a-07ae-01c5-0bd326c81d49",
+      "b": ""
+    },
+    "extraType": "ResItemTextureSequence",
+    "name": "x0 bomb",
+    "expandInPanel": false,
+    "objGuid": "Guid(11260933934763082660, 18301104036781875379)",
+    "rttiType": "AnimSeq",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Unregistered",
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512
+  }
+]

@@ -920,7 +920,7 @@
     "isVisibleInInspector": true,
     "hideInPanel": false,
     "createdBy": "LegacyProject",
-    "expanded": true,
+    "expanded": false,
     "type": "none",
     "createdEffectNodeKey": ""
   },
@@ -1455,7 +1455,7 @@
     "displayKey": "component_aniseq",
     "expanded": true,
     "editable": true,
-    "sequence": "d12bfba5-c19f-37cb-17de-081a3e09d533",
+    "sequence": "d6dc7aef-ea08-b0a6-edd2-105137073002",
     "targetProperty": "Albedo",
     "playMode": 0
   },
@@ -1857,7 +1857,7 @@
     "displayKey": "component_aniseq",
     "expanded": true,
     "editable": true,
-    "sequence": "d12bfba5-c19f-37cb-17de-081a3e09d533",
+    "sequence": "d6dc7aef-ea08-b0a6-edd2-105137073002",
     "targetProperty": "Albedo",
     "playMode": 0
   },
@@ -1988,7 +1988,7 @@
     "displayKey": "component_aniseq",
     "expanded": true,
     "editable": true,
-    "sequence": "d12bfba5-c19f-37cb-17de-081a3e09d533",
+    "sequence": "73e9244e-a7da-950d-280e-271c5dde33d0",
     "targetProperty": "Albedo",
     "playMode": 0
   },
@@ -2082,7 +2082,7 @@
     "displayKey": "component_aniseq",
     "expanded": true,
     "editable": true,
-    "sequence": "d12bfba5-c19f-37cb-17de-081a3e09d533",
+    "sequence": "73e9244e-a7da-950d-280e-271c5dde33d0",
     "targetProperty": "Albedo",
     "playMode": 0
   },

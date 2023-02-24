@@ -1,0 +1,28 @@
+[
+  {
+    "guid": {
+      "a": "ac36dfc0-887b-c1e6-88b8-22adb820b34c",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "ui panel reset",
+    "expandInPanel": false,
+    "objGuid": "Guid(13352339594450303078, 7731999199610255036)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Unregistered",
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

@@ -1,13 +1,13 @@
 [
   {
     "guid": {
-      "a": "a17475f5-c45a-07ae-01c5-0bd326c81d49",
+      "a": "73e9244e-a7da-950d-280e-271c5dde33d0",
       "b": ""
     },
     "extraType": "ResItemTextureSequence",
-    "name": "raw bomb",
+    "name": "x0 fries",
     "expandInPanel": false,
-    "objGuid": "Guid(11260933934763082660, 18301104036781875379)",
+    "objGuid": "Guid(16161825529141793902, 13161981987940865413)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,

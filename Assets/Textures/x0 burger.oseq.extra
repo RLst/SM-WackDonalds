@@ -1,0 +1,20 @@
+[
+  {
+    "guid": {
+      "a": "d6dc7aef-ea08-b0a6-edd2-105137073002",
+      "b": ""
+    },
+    "extraType": "ResItemTextureSequence",
+    "name": "x0 burger",
+    "expandInPanel": false,
+    "objGuid": "Guid(9315835125981738337, 14877209059821258923)",
+    "rttiType": "AnimSeq",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Unregistered",
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512
+  }
+]
