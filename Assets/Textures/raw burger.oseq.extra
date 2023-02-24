@@ -7,7 +7,7 @@
     "extraType": "ResItemTextureSequence",
     "name": "raw burger",
     "expandInPanel": true,
-    "objGuid": "Guid(3909487878051561532, 12358559876123846018)",
+    "objGuid": "Guid(10323638374976768173, 7696125471078011530)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,

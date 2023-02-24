@@ -1426,7 +1426,7 @@
     "displayKey": "component_aniseq",
     "expanded": true,
     "editable": true,
-    "sequence": "fa1b84a0-df4e-ea59-57b6-5494bd99e634",
+    "sequence": "a17475f5-c45a-07ae-01c5-0bd326c81d49",
     "targetProperty": "Albedo",
     "playMode": 0
   },
@@ -1520,7 +1520,7 @@
     "displayKey": "component_aniseq",
     "expanded": true,
     "editable": true,
-    "sequence": "fa1b84a0-df4e-ea59-57b6-5494bd99e634",
+    "sequence": "a17475f5-c45a-07ae-01c5-0bd326c81d49",
     "targetProperty": "Albedo",
     "playMode": 0
   },

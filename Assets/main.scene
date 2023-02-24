@@ -76,7 +76,7 @@ entities:
           value: Normal
         blendAlpha: 1
         blendAlphaCkeck: true
-        drawCallNum: 12
+        drawCallNum: 4
         maskType:
           __class: IFMaskType
           value: None
@@ -258,7 +258,7 @@ entities:
     name: Head Eating Collider 0
     guid: {a: 16736484139022258614, b: 455082978890752162}
     scene: {localId: 1}
-    selfvisible: true
+    selfvisible: false
     components:
       - {localId: 10}
       - __class: IFSprite2d
@@ -465,7 +465,7 @@ entities:
     name: Item Collider 1
     guid: {a: 11043644357575484811, b: 4883084581616782525}
     scene: {localId: 1}
-    selfvisible: true
+    selfvisible: false
     components:
       - {localId: 20}
       - __class: IFSprite2d
@@ -531,7 +531,7 @@ entities:
         sizeMode:
           __class: IFSprite2dSizeMode
           value: Custom
-        colorTint: {r: 1, g: 0.9106256, b: 0, a: 1}
+        colorTint: {r: 1, g: 1, b: 1, a: 1}
         blendMode:
           __class: IFBlendMode
           value: Normal
@@ -567,7 +567,7 @@ entities:
         name: ""
         guid: {a: 8955369970818623867, b: 4984025601540487082}
         enabled: true
-        animSeq: {localId: 8, path: d12bfba5-c19f-37cb-17de-081a3e09d533--d12bfba5-c19f-37cb-17de-081a3e09d533.seq}
+        animSeq: {localId: 11, path: d12bfba5-c19f-37cb-17de-081a3e09d533--d12bfba5-c19f-37cb-17de-081a3e09d533.seq}
         texName: Albedo
         frameName: _MainTex_ST
         frameRotateName: _Atlas_Rotated
@@ -580,7 +580,7 @@ entities:
         autoplay: false
         animSeqMap:
           __class: Map
-          burger: {localId: 8, path: d12bfba5-c19f-37cb-17de-081a3e09d533--d12bfba5-c19f-37cb-17de-081a3e09d533.seq}
+          raw burger: {localId: 11, path: d12bfba5-c19f-37cb-17de-081a3e09d533--d12bfba5-c19f-37cb-17de-081a3e09d533.seq}
     layer: 1
   - __class: Entity
     name: 2D Foreground Effects
@@ -711,7 +711,7 @@ entities:
     name: Item Collider 2
     guid: {a: 18468533371072604, b: 8766365853903746195}
     scene: {localId: 1}
-    selfvisible: true
+    selfvisible: false
     components:
       - {localId: 25}
       - __class: IFSprite2d
@@ -777,12 +777,12 @@ entities:
         sizeMode:
           __class: IFSprite2dSizeMode
           value: Custom
-        colorTint: {r: 0.52448, g: 1, b: 0, a: 1}
+        colorTint: {r: 1, g: 1, b: 1, a: 1}
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/fa1b84a0-df4e-ea59-57b6-5494bd99e634/0.png}
-        imageAtlas: {localId: 1, path: fa1b84a0-df4e-ea59-57b6-5494bd99e634--0.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/a17475f5-c45a-07ae-01c5-0bd326c81d49/0.png}
+        imageAtlas: {localId: 1, path: a17475f5-c45a-07ae-01c5-0bd326c81d49--0.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -813,7 +813,7 @@ entities:
         name: ""
         guid: {a: 90216391918104581, b: 9715996151743095964}
         enabled: true
-        animSeq: {localId: 1, path: fa1b84a0-df4e-ea59-57b6-5494bd99e634--fa1b84a0-df4e-ea59-57b6-5494bd99e634.seq}
+        animSeq: {localId: 1, path: a17475f5-c45a-07ae-01c5-0bd326c81d49--a17475f5-c45a-07ae-01c5-0bd326c81d49.seq}
         texName: Albedo
         frameName: _MainTex_ST
         frameRotateName: _Atlas_Rotated
@@ -826,13 +826,13 @@ entities:
         autoplay: false
         animSeqMap:
           __class: Map
-          raw bomb: {localId: 1, path: fa1b84a0-df4e-ea59-57b6-5494bd99e634--fa1b84a0-df4e-ea59-57b6-5494bd99e634.seq}
+          raw bomb: {localId: 1, path: a17475f5-c45a-07ae-01c5-0bd326c81d49--a17475f5-c45a-07ae-01c5-0bd326c81d49.seq}
     layer: 1
   - __class: Entity
     name: Item Collider 3
     guid: {a: 14073320491748941365, b: 3080069547944285860}
     scene: {localId: 1}
-    selfvisible: true
+    selfvisible: false
     components:
       - {localId: 27}
       - __class: IFSprite2d
@@ -898,12 +898,12 @@ entities:
         sizeMode:
           __class: IFSprite2dSizeMode
           value: Custom
-        colorTint: {r: 0, g: 0.8182496, b: 1, a: 1}
+        colorTint: {r: 1, g: 1, b: 1, a: 1}
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/fa1b84a0-df4e-ea59-57b6-5494bd99e634/0.png}
-        imageAtlas: {localId: 1, path: fa1b84a0-df4e-ea59-57b6-5494bd99e634--0.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/a17475f5-c45a-07ae-01c5-0bd326c81d49/0.png}
+        imageAtlas: {localId: 1, path: a17475f5-c45a-07ae-01c5-0bd326c81d49--0.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -934,7 +934,7 @@ entities:
         name: ""
         guid: {a: 10757101361571996623, b: 8330167951175414417}
         enabled: true
-        animSeq: {localId: 1, path: fa1b84a0-df4e-ea59-57b6-5494bd99e634--fa1b84a0-df4e-ea59-57b6-5494bd99e634.seq}
+        animSeq: {localId: 1, path: a17475f5-c45a-07ae-01c5-0bd326c81d49--a17475f5-c45a-07ae-01c5-0bd326c81d49.seq}
         texName: Albedo
         frameName: _MainTex_ST
         frameRotateName: _Atlas_Rotated
@@ -947,7 +947,7 @@ entities:
         autoplay: false
         animSeqMap:
           __class: Map
-          raw bomb: {localId: 1, path: fa1b84a0-df4e-ea59-57b6-5494bd99e634--fa1b84a0-df4e-ea59-57b6-5494bd99e634.seq}
+          raw bomb: {localId: 1, path: a17475f5-c45a-07ae-01c5-0bd326c81d49--a17475f5-c45a-07ae-01c5-0bd326c81d49.seq}
     layer: 1
   - __class: Entity
     name: Item 0
@@ -968,7 +968,7 @@ entities:
         sizeMode:
           __class: IFSprite2dSizeMode
           value: Custom
-        colorTint: {r: 1, g: 0.008303527, b: 1.110223e-16, a: 1}
+        colorTint: {r: 1, g: 1, b: 1, a: 1}
         blendMode:
           __class: IFBlendMode
           value: Normal
@@ -1004,7 +1004,7 @@ entities:
         name: ""
         guid: {a: 16378802346230804071, b: 5472457427737936029}
         enabled: true
-        animSeq: {localId: 8, path: d12bfba5-c19f-37cb-17de-081a3e09d533--d12bfba5-c19f-37cb-17de-081a3e09d533.seq}
+        animSeq: {localId: 11, path: d12bfba5-c19f-37cb-17de-081a3e09d533--d12bfba5-c19f-37cb-17de-081a3e09d533.seq}
         texName: Albedo
         frameName: _MainTex_ST
         frameRotateName: _Atlas_Rotated
@@ -1017,13 +1017,13 @@ entities:
         autoplay: false
         animSeqMap:
           __class: Map
-          burger: {localId: 8, path: d12bfba5-c19f-37cb-17de-081a3e09d533--d12bfba5-c19f-37cb-17de-081a3e09d533.seq}
+          raw burger: {localId: 11, path: d12bfba5-c19f-37cb-17de-081a3e09d533--d12bfba5-c19f-37cb-17de-081a3e09d533.seq}
     layer: 1
   - __class: Entity
     name: Item Collider 0
     guid: {a: 5208574691224362333, b: 3670719594943254400}
     scene: {localId: 1}
-    selfvisible: true
+    selfvisible: false
     components:
       - {localId: 11}
       - __class: IFSprite2d
