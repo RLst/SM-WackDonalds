@@ -7,7 +7,7 @@
     "extraType": "ResItemMP3",
     "name": "start",
     "expandInPanel": false,
-    "objGuid": "Guid(8884870826967025843, 12224899524542054029)",
+    "objGuid": "Guid(598677519442647365, 14822901887779499696)",
     "rttiType": "AudioClip",
     "version": "0.1.0",
     "isVisibleInInspector": true,

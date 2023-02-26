@@ -1,13 +1,13 @@
 [
   {
     "guid": {
-      "a": "ac36dfc0-887b-c1e6-88b8-22adb820b34c",
+      "a": "9b452fef-26aa-14fb-5c17-f0e1b5b0d3d3",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
-    "name": "ui panel reset",
+    "name": "retry",
     "expandInPanel": false,
-    "objGuid": "Guid(14286476488135209556, 13808876134615881389)",
+    "objGuid": "Guid(12628510931717357048, 8549919965791626116)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
