@@ -53,7 +53,7 @@ entities:
     name: Bottom
     guid: {a: 7512253231511502799, b: 1675252109028045698}
     scene: {localId: 1}
-    selfvisible: true
+    selfvisible: false
     components:
       - {localId: 12}
       - __class: IFSprite2d
@@ -119,7 +119,7 @@ entities:
         sizeMode:
           __class: IFSprite2dSizeMode
           value: Custom
-        colorTint: {r: 1, g: 0.9947956, b: 0.9545454, a: 1}
+        colorTint: {r: 1, g: 0.9818182, b: 0.9818182, a: 1}
         blendMode:
           __class: IFBlendMode
           value: Normal
@@ -284,7 +284,7 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: e9e35ebf-1057-ac8a-de5f-7d7d0184430e--e9e35ebf-1057-ac8a-de5f-7d7d0184430e.png}
+        texture: {localId: 1, path: eb90a3bb-8662-bc1b-e314-003e900d2439--eb90a3bb-8662-bc1b-e314-003e900d2439.png}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -1287,7 +1287,7 @@ entities:
         sizeMode:
           __class: IFSprite2dSizeMode
           value: Custom
-        colorTint: {r: 1, g: 0.7803922, b: 0.3176471, a: 1}
+        colorTint: {r: 1, g: 0.6941177, b: 0.345098, a: 1}
         blendMode:
           __class: IFBlendMode
           value: Normal
@@ -1357,7 +1357,7 @@ entities:
         sizeMode:
           __class: IFSprite2dSizeMode
           value: Custom
-        colorTint: {r: 1, g: 0.7803922, b: 0.3176471, a: 1}
+        colorTint: {r: 1, g: 0.6941177, b: 0.345098, a: 1}
         blendMode:
           __class: IFBlendMode
           value: Normal
@@ -1427,7 +1427,7 @@ entities:
         sizeMode:
           __class: IFSprite2dSizeMode
           value: Custom
-        colorTint: {r: 1, g: 0.7803922, b: 0.3176471, a: 1}
+        colorTint: {r: 1, g: 0.6941177, b: 0.345098, a: 1}
         blendMode:
           __class: IFBlendMode
           value: Normal
@@ -1497,7 +1497,7 @@ entities:
         sizeMode:
           __class: IFSprite2dSizeMode
           value: Custom
-        colorTint: {r: 1, g: 0.7803922, b: 0.3176471, a: 1}
+        colorTint: {r: 1, g: 0.6941177, b: 0.345098, a: 1}
         blendMode:
           __class: IFBlendMode
           value: Normal
@@ -1618,7 +1618,7 @@ entities:
         sizeMode:
           __class: IFSprite2dSizeMode
           value: Custom
-        colorTint: {r: 1, g: 0.7803922, b: 0.3176471, a: 1}
+        colorTint: {r: 1, g: 0.6941177, b: 0.345098, a: 1}
         blendMode:
           __class: IFBlendMode
           value: Normal
@@ -1864,14 +1864,14 @@ depth: -20
 name: ""
 guid: {a: 13279845635045433916, b: 4114048481806217620}
 enabled: true
-localPosition: {x: 1.117587e-08, y: -0.9278585, z: 0}
+localPosition: {x: 1.117587e-08, y: -1.072141, z: 0}
 localScale: {x: 1, y: 1, z: 1}
 localOrientation: {w: 1, x: 0, y: 0, z: 0}
 parent: {localId: 9}
 mobility:
   __class: Mobility
   value: Dynamic
-position: {x: 7.152557e-06, y: -593.8294}
+position: {x: 7.152557e-06, y: -686.1705}
 rotation: 0
 scale: {x: 1, y: 1}
 size: {x: 800, y: 92.34108}
@@ -2026,17 +2026,17 @@ depth: -2
 name: ""
 guid: {a: 17026600904542536662, b: 1978573149629304505}
 enabled: true
-localPosition: {x: -0.268038, y: -0.0004862609, z: 0}
+localPosition: {x: -7.450581e-09, y: -9.685755e-08, z: 0}
 localScale: {x: 1, y: 1, z: 1}
 localOrientation: {w: 1, x: 0, y: 0, z: 0}
 parent: {localId: 13}
 mobility:
   __class: Mobility
   value: Dynamic
-position: {x: -171.5443, y: -0.311207}
+position: {x: -4.768372e-06, y: -6.198883e-05}
 rotation: 0
 scale: {x: 1, y: 1}
-size: {x: 1920.987, y: 1279.378}
+size: {x: 854.9999, y: 1280}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
