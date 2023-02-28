@@ -32,7 +32,7 @@ entities:
           value: Normal
         blendAlpha: 1
         blendAlphaCkeck: true
-        drawCallNum: 6
+        drawCallNum: 5
         maskType:
           __class: IFMaskType
           value: None
@@ -788,7 +788,7 @@ entities:
     name: Item Collider 5
     guid: {a: 14073320491748941365, b: 3080069547944285860}
     scene: {localId: 1}
-    selfvisible: true
+    selfvisible: false
     components:
       - {localId: 27}
       - __class: IFSprite2d
@@ -1957,7 +1957,7 @@ mobility:
 position: {x: 0, y: 0}
 rotation: 0
 scale: {x: 1, y: 1}
-size: {x: 375, y: 375}
+size: {x: 350, y: 350}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
@@ -2113,7 +2113,7 @@ mobility:
 position: {x: 0, y: 0}
 rotation: 0
 scale: {x: 1, y: 1}
-size: {x: 325, y: 325}
+size: {x: 300, y: 300}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
@@ -2198,7 +2198,7 @@ mobility:
 position: {x: -48, y: 0}
 rotation: 0
 scale: {x: 1, y: 1}
-size: {x: 125, y: 125}
+size: {x: 100, y: 100}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
@@ -2238,7 +2238,7 @@ mobility:
 position: {x: -48, y: 0}
 rotation: 0
 scale: {x: 1, y: 1}
-size: {x: 125, y: 125}
+size: {x: 100, y: 100}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
@@ -2278,7 +2278,7 @@ mobility:
 position: {x: 0, y: 0}
 rotation: 0
 scale: {x: 1, y: 1}
-size: {x: 300, y: 300}
+size: {x: 275, y: 275}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
@@ -2318,7 +2318,7 @@ mobility:
 position: {x: 0, y: 0}
 rotation: 0
 scale: {x: 1, y: 1}
-size: {x: 200, y: 200}
+size: {x: 100, y: 100}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
