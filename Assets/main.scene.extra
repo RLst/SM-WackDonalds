@@ -969,7 +969,7 @@
     "isVisibleInInspector": true,
     "hideInPanel": false,
     "createdBy": "LegacyProject",
-    "expanded": true,
+    "expanded": false,
     "type": "none",
     "createdEffectNodeKey": ""
   },
@@ -1755,9 +1755,9 @@
     "displayKey": "component_aniseq",
     "expanded": true,
     "editable": true,
-    "sequence": "a17475f5-c45a-07ae-01c5-0bd326c81d49",
+    "sequence": "b6ce1c43-615f-e7f6-57af-10773889166e",
     "targetProperty": "Albedo",
-    "playMode": 0
+    "playMode": 1
   },
   {
     "guid": {
@@ -1849,9 +1849,9 @@
     "displayKey": "component_aniseq",
     "expanded": true,
     "editable": true,
-    "sequence": "a17475f5-c45a-07ae-01c5-0bd326c81d49",
+    "sequence": "b6ce1c43-615f-e7f6-57af-10773889166e",
     "targetProperty": "Albedo",
-    "playMode": 0
+    "playMode": 1
   },
   {
     "guid": {
