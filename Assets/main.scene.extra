@@ -602,6 +602,34 @@
   },
   {
     "guid": {
+      "a": "c5dbcfed-2417-ad26-c45e-065a35b7ad05",
+      "b": ""
+    },
+    "objGuid": "Guid(9822127494064463877, 6426905413308444035)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Duplicate",
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
       "a": "7b4194aa-ffb1-2ce4-365b-dcb28ae35634",
       "b": ""
     },
@@ -2550,7 +2578,64 @@
     "expanded": true,
     "editable": true,
     "advanced": false,
-    "texture": "9b452fef-26aa-14fb-5c17-f0e1b5b0d3d3",
+    "texture": "ac36dfc0-887b-c1e6-88b8-22adb820b34c",
     "textureType": "ResItemPNGImage"
+  },
+  {
+    "guid": {
+      "a": "68b17eb4-7518-4dc0-4ffe-1f0ee61d5e08",
+      "b": ""
+    },
+    "objGuid": "Guid(812983545626250532, 7793922610307563653)",
+    "extraType": "Entity",
+    "name": "Start Countdown",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Duplicate",
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "768baa2a-ef95-bd96-6ec6-1d4ed6073c2a",
+      "b": ""
+    },
+    "objGuid": "Guid(5497564419792944156, 14915743588528592529)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Duplicate",
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": false,
+    "texture": "00000000-0000-0000-0000-00000000003e",
+    "textureType": "ResItemPNGImage"
+  },
+  {
+    "guid": {
+      "a": "f78254e2-77e0-bc5e-de93-66672a325fef",
+      "b": ""
+    },
+    "objGuid": "Guid(10614883833910326650, 10747662161293778616)",
+    "extraType": "AnimationSequence",
+    "name": "Animation Sequence",
+    "rttiType": "AnimSeqComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Duplicate",
+    "displayKey": "component_aniseq",
+    "expanded": true,
+    "editable": true,
+    "sequence": "5d313645-7ead-c012-02a5-f4eeafe4f977",
+    "targetProperty": "Albedo",
+    "playMode": 0
   }
 ]
