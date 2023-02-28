@@ -32,7 +32,7 @@ entities:
           value: Normal
         blendAlpha: 1
         blendAlphaCkeck: true
-        drawCallNum: 12
+        drawCallNum: 6
         maskType:
           __class: IFMaskType
           value: None
@@ -214,7 +214,7 @@ entities:
     name: Head Eating Collider 0
     guid: {a: 16736484139022258614, b: 455082978890752162}
     scene: {localId: 1}
-    selfvisible: true
+    selfvisible: false
     components:
       - {localId: 10}
       - __class: IFSprite2d
@@ -421,7 +421,7 @@ entities:
     name: Item Collider 1
     guid: {a: 11043644357575484811, b: 4883084581616782525}
     scene: {localId: 1}
-    selfvisible: true
+    selfvisible: false
     components:
       - {localId: 20}
       - __class: IFSprite2d
@@ -667,7 +667,7 @@ entities:
     name: Item Collider 4
     guid: {a: 18468533371072604, b: 8766365853903746195}
     scene: {localId: 1}
-    selfvisible: true
+    selfvisible: false
     components:
       - {localId: 25}
       - __class: IFSprite2d
@@ -979,7 +979,7 @@ entities:
     name: Item Collider 0
     guid: {a: 5208574691224362333, b: 3670719594943254400}
     scene: {localId: 1}
-    selfvisible: true
+    selfvisible: false
     components:
       - {localId: 11}
       - __class: IFSprite2d
@@ -1030,7 +1030,7 @@ entities:
     name: Item Collider 2
     guid: {a: 12918465157796301421, b: 4122668812089147826}
     scene: {localId: 1}
-    selfvisible: true
+    selfvisible: false
     components:
       - {localId: 29}
       - __class: IFSprite2d
@@ -1151,7 +1151,7 @@ entities:
     name: Item Collider 3
     guid: {a: 17459165468209234839, b: 2623269696283554494}
     scene: {localId: 1}
-    selfvisible: true
+    selfvisible: false
     components:
       - {localId: 31}
       - __class: IFSprite2d
@@ -1221,8 +1221,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/24a34a2a-f7e0-854e-3743-72c920d7ed4d/0.png}
-        imageAtlas: {localId: 1, path: 24a34a2a-f7e0-854e-3743-72c920d7ed4d--0.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/24a34a2a-f7e0-854e-3743-72c920d7ed4d/1.png}
+        imageAtlas: {localId: 1, path: 24a34a2a-f7e0-854e-3743-72c920d7ed4d--1.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -1260,7 +1260,7 @@ entities:
         frameInnerName: _Atlas_InnerTex_ST
         playmode:
           __class: PlayMode
-          value: loop
+          value: once
         loopCount: -1
         speed: 2
         autoplay: true
@@ -1725,7 +1725,7 @@ entities:
           value: Normal
         blendAlpha: 1
         blendAlphaCkeck: true
-        drawCallNum: 5
+        drawCallNum: 3
         maskType:
           __class: IFMaskType
           value: None
@@ -2287,7 +2287,7 @@ depth: -10
 name: ""
 guid: {a: 6575483014815904589, b: 16477173109176707497}
 enabled: true
-localPosition: {x: -0.24, y: 1.24, z: 0}
+localPosition: {x: 0.3225, y: 1.24, z: 0}
 localScale: {x: 0.6, y: 0.6, z: 1}
 localOrientation: {w: 1, x: 0, y: 0, z: 0}
 parent: {localId: 5}
@@ -2296,7 +2296,7 @@ children:
 mobility:
   __class: Mobility
   value: Dynamic
-position: {x: -153.6, y: 793.6}
+position: {x: 206.4, y: 793.6}
 rotation: 0
 scale: {x: 0.6, y: 0.6}
 size: {x: 512, y: 512}

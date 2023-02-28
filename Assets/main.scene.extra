@@ -1436,7 +1436,7 @@
     "isVisibleInInspector": true,
     "hideInPanel": false,
     "createdBy": "Duplicate",
-    "expanded": true,
+    "expanded": false,
     "type": "none",
     "createdEffectNodeKey": ""
   },
@@ -1687,7 +1687,7 @@
     "isVisibleInInspector": true,
     "hideInPanel": false,
     "createdBy": "Duplicate",
-    "expanded": true,
+    "expanded": false,
     "type": "none",
     "createdEffectNodeKey": ""
   },
@@ -1781,7 +1781,7 @@
     "isVisibleInInspector": true,
     "hideInPanel": false,
     "createdBy": "Duplicate",
-    "expanded": true,
+    "expanded": false,
     "type": "none",
     "createdEffectNodeKey": ""
   },
@@ -1838,7 +1838,7 @@
     "isVisibleInInspector": true,
     "hideInPanel": false,
     "createdBy": "LegacyProject",
-    "expanded": true,
+    "expanded": false,
     "type": "none",
     "createdEffectNodeKey": ""
   },
@@ -1969,7 +1969,7 @@
     "isVisibleInInspector": true,
     "hideInPanel": false,
     "createdBy": "Duplicate",
-    "expanded": true,
+    "expanded": false,
     "type": "none",
     "createdEffectNodeKey": ""
   },
@@ -2063,7 +2063,7 @@
     "isVisibleInInspector": true,
     "hideInPanel": false,
     "createdBy": "Duplicate",
-    "expanded": true,
+    "expanded": false,
     "type": "none",
     "createdEffectNodeKey": ""
   },
@@ -2105,7 +2105,7 @@
     "editable": true,
     "sequence": "24a34a2a-f7e0-854e-3743-72c920d7ed4d",
     "targetProperty": "Albedo",
-    "playMode": 1
+    "playMode": 0
   },
   {
     "guid": {
