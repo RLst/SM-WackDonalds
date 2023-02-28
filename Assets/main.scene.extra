@@ -1436,7 +1436,7 @@
     "isVisibleInInspector": true,
     "hideInPanel": false,
     "createdBy": "Duplicate",
-    "expanded": false,
+    "expanded": true,
     "type": "none",
     "createdEffectNodeKey": ""
   },
@@ -1476,7 +1476,7 @@
     "displayKey": "component_aniseq",
     "expanded": true,
     "editable": true,
-    "sequence": "d6dc7aef-ea08-b0a6-edd2-105137073002",
+    "sequence": "bdafef6b-5fde-4a8f-4a4f-51b98e430cdc",
     "targetProperty": "Albedo",
     "playMode": 0
   },
@@ -1838,7 +1838,7 @@
     "isVisibleInInspector": true,
     "hideInPanel": false,
     "createdBy": "LegacyProject",
-    "expanded": false,
+    "expanded": true,
     "type": "none",
     "createdEffectNodeKey": ""
   },
@@ -1878,7 +1878,7 @@
     "displayKey": "component_aniseq",
     "expanded": true,
     "editable": true,
-    "sequence": "d6dc7aef-ea08-b0a6-edd2-105137073002",
+    "sequence": "fb9d2911-4556-c10e-7aa6-24fa9a594aff",
     "targetProperty": "Albedo",
     "playMode": 0
   },
@@ -1969,7 +1969,7 @@
     "isVisibleInInspector": true,
     "hideInPanel": false,
     "createdBy": "Duplicate",
-    "expanded": false,
+    "expanded": true,
     "type": "none",
     "createdEffectNodeKey": ""
   },
@@ -2009,7 +2009,7 @@
     "displayKey": "component_aniseq",
     "expanded": true,
     "editable": true,
-    "sequence": "73e9244e-a7da-950d-280e-271c5dde33d0",
+    "sequence": "5b437f3b-bed5-6c62-ac8b-7cdffdd9dddb",
     "targetProperty": "Albedo",
     "playMode": 0
   },
@@ -2063,7 +2063,7 @@
     "isVisibleInInspector": true,
     "hideInPanel": false,
     "createdBy": "Duplicate",
-    "expanded": false,
+    "expanded": true,
     "type": "none",
     "createdEffectNodeKey": ""
   },
@@ -2103,9 +2103,9 @@
     "displayKey": "component_aniseq",
     "expanded": true,
     "editable": true,
-    "sequence": "73e9244e-a7da-950d-280e-271c5dde33d0",
+    "sequence": "24a34a2a-f7e0-854e-3743-72c920d7ed4d",
     "targetProperty": "Albedo",
-    "playMode": 0
+    "playMode": 1
   },
   {
     "guid": {

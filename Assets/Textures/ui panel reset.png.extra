@@ -7,7 +7,7 @@
     "extraType": "ResItemPNGImage",
     "name": "ui panel reset",
     "expandInPanel": false,
-    "objGuid": "Guid(14286476488135209556, 13808876134615881389)",
+    "objGuid": "Guid(450768521148667205, 2024811797206511287)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

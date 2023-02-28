@@ -1,20 +1,20 @@
 [
   {
     "guid": {
-      "a": "d6dc7aef-ea08-b0a6-edd2-105137073002",
+      "a": "24a34a2a-f7e0-854e-3743-72c920d7ed4d",
       "b": ""
     },
     "extraType": "ResItemTextureSequence",
-    "name": "x0 burger",
+    "name": "nugget",
     "expandInPanel": false,
-    "objGuid": "Guid(9315835125981738337, 14877209059821258923)",
+    "objGuid": "Guid(8881611582973721642, 8644122622607273883)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
     "createdBy": "Unregistered",
-    "compressionType": 0,
-    "quality": 0,
+    "compressionType": 1,
+    "quality": 1,
     "maxResolution": 512
   }
 ]

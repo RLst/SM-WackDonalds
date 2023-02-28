@@ -1,0 +1,20 @@
+[
+  {
+    "guid": {
+      "a": "5b437f3b-bed5-6c62-ac8b-7cdffdd9dddb",
+      "b": ""
+    },
+    "extraType": "ResItemTextureSequence",
+    "name": "fries",
+    "expandInPanel": false,
+    "objGuid": "Guid(13207947829684660994, 1214301635440864911)",
+    "rttiType": "AnimSeq",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Unregistered",
+    "compressionType": 1,
+    "quality": 1,
+    "maxResolution": 512
+  }
+]

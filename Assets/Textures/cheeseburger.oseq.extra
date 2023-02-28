@@ -1,20 +1,20 @@
 [
   {
     "guid": {
-      "a": "73e9244e-a7da-950d-280e-271c5dde33d0",
+      "a": "bdafef6b-5fde-4a8f-4a4f-51b98e430cdc",
       "b": ""
     },
     "extraType": "ResItemTextureSequence",
-    "name": "x0 fries",
+    "name": "cheeseburger",
     "expandInPanel": false,
-    "objGuid": "Guid(16161825529141793902, 13161981987940865413)",
+    "objGuid": "Guid(14574154241777679210, 5989617344979094921)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
     "createdBy": "Unregistered",
-    "compressionType": 0,
-    "quality": 0,
+    "compressionType": 1,
+    "quality": 1,
     "maxResolution": 512
   }
 ]
