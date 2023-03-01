@@ -7,7 +7,7 @@
     "extraType": "ResItemTextureSequence",
     "name": "nugget",
     "expandInPanel": false,
-    "objGuid": "Guid(8737187935808636779, 4380350334686416524)",
+    "objGuid": "Guid(6359174041440888867, 6562196201002520968)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,

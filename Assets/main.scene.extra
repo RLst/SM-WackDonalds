@@ -658,6 +658,34 @@
   },
   {
     "guid": {
+      "a": "b59fe17b-90c0-4e9e-eb2a-c48721548a5c",
+      "b": ""
+    },
+    "objGuid": "Guid(6937382539564380724, 16855499590410280872)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Duplicate",
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
       "a": "7b4194aa-ffb1-2ce4-365b-dcb28ae35634",
       "b": ""
     },
@@ -2724,7 +2752,7 @@
     "displayKey": "inspector_add_image",
     "expanded": true,
     "editable": true,
-    "advanced": false,
+    "advanced": true,
     "texture": "e3110f2c-1fe7-6932-4980-8845f2e42aa7",
     "textureType": "ResItemPNGImage"
   },
@@ -2926,5 +2954,42 @@
     "sequence": "8939f3e3-6c16-4a0d-3ebe-771f04ea6526",
     "targetProperty": "Albedo",
     "playMode": 1
+  },
+  {
+    "guid": {
+      "a": "7b9b784b-dff9-94e2-4cdb-adfff44ddf24",
+      "b": ""
+    },
+    "objGuid": "Guid(14069536359534951727, 16441802742899232439)",
+    "extraType": "Entity",
+    "name": "Show Face Countdown Gauge",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Duplicate",
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "25c9b42c-82a4-73cf-1917-ca97f14db9b2",
+      "b": ""
+    },
+    "objGuid": "Guid(2325903328503337049, 15577211337737774993)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Duplicate",
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": true,
+    "texture": "854df367-0ae1-de46-3617-1ba6d4f212d4",
+    "textureType": "ResItemPNGImage"
   }
 ]

@@ -1,20 +1,20 @@
 [
   {
     "guid": {
-      "a": "5b10500e-10c8-18a7-3530-12b748038847",
+      "a": "854df367-0ae1-de46-3617-1ba6d4f212d4",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
-    "name": "bg 4",
+    "name": "show face gauge",
     "expandInPanel": false,
-    "objGuid": "Guid(4416067749643370463, 3000623665682495402)",
+    "objGuid": "Guid(18115784198689138, 7918707933204426156)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
     "createdBy": "Unregistered",
-    "compressionType": 1,
-    "quality": 1,
+    "compressionType": 0,
+    "quality": 0,
     "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,

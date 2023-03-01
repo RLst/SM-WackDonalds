@@ -7,7 +7,7 @@
     "extraType": "ResItemTextureSequence",
     "name": "burger",
     "expandInPanel": false,
-    "objGuid": "Guid(16450780004111532839, 4269186252040601532)",
+    "objGuid": "Guid(18176813715781282647, 2163806449256196745)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,
