@@ -1,0 +1,28 @@
+[
+  {
+    "guid": {
+      "a": "240ee021-4f8a-a9af-d5a0-ae6b4b990a71",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "eating squirts 2",
+    "expandInPanel": false,
+    "objGuid": "Guid(2614539914779222587, 8872741069000764820)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Unregistered",
+    "compressionType": 1,
+    "quality": 1,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

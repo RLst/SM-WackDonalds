@@ -1501,6 +1501,34 @@
   },
   {
     "guid": {
+      "a": "a306fc49-2344-3b65-f0df-810ad7c3504c",
+      "b": ""
+    },
+    "objGuid": "Guid(4992327550965590697, 6033843638255779512)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Duplicate",
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
       "a": "1ef650c0-0baf-bfbe-1cef-ed3bd160c189",
       "b": ""
     },
@@ -2850,7 +2878,7 @@
     },
     "objGuid": "Guid(7730022988472019588, 4090122898622323370)",
     "extraType": "Entity",
-    "name": "Face Sticker",
+    "name": "End Game Result",
     "rttiType": "Entity",
     "version": "0.1.0",
     "isVisibleInInspector": true,
@@ -2991,5 +3019,60 @@
     "advanced": true,
     "texture": "854df367-0ae1-de46-3617-1ba6d4f212d4",
     "textureType": "ResItemPNGImage"
+  },
+  {
+    "guid": {
+      "a": "fa98938d-382d-6659-0071-58ff396e68a2",
+      "b": ""
+    },
+    "objGuid": "Guid(2399949210859249940, 10483600998452166289)",
+    "extraType": "Entity",
+    "name": "Eating Squirts",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Duplicate",
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_2D_foreground"
+  },
+  {
+    "guid": {
+      "a": "cb9f09bb-3bb7-80f8-22ed-c14696d5c94d",
+      "b": ""
+    },
+    "objGuid": "Guid(16883539043180966713, 7009934095684826812)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Duplicate",
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": false,
+    "texture": "240ee021-4f8a-a9af-d5a0-ae6b4b990a71",
+    "textureType": "ResItemPNGImage"
+  },
+  {
+    "guid": {
+      "a": "e24db249-5f60-f77d-2b65-5291c7620a66",
+      "b": ""
+    },
+    "objGuid": "Guid(9603340201668900871, 13021078224927070898)",
+    "extraType": "IFFaceAnchorAlignment",
+    "name": "Face Sticker",
+    "rttiType": "IFFaceAnchorAlignment",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Duplicate",
+    "displayKey": "inspector_add_facesticker",
+    "expanded": true,
+    "editable": true,
+    "anchorType": "Custom Point"
   }
 ]
