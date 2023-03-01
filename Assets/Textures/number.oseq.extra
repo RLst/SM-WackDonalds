@@ -1,13 +1,13 @@
 [
   {
     "guid": {
-      "a": "24a34a2a-f7e0-854e-3743-72c920d7ed4d",
+      "a": "9d5c5358-f29f-a07d-8372-06b0438f9e52",
       "b": ""
     },
     "extraType": "ResItemTextureSequence",
-    "name": "nugget",
+    "name": "number",
     "expandInPanel": false,
-    "objGuid": "Guid(3191264550719966852, 15567663285043904167)",
+    "objGuid": "Guid(9890650055367794561, 16276197207992932257)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,
@@ -15,6 +15,6 @@
     "createdBy": "Unregistered",
     "compressionType": 1,
     "quality": 1,
-    "maxResolution": 512
+    "maxResolution": 128
   }
 ]

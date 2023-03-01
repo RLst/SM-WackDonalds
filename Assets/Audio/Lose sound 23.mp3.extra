@@ -1,13 +1,13 @@
 [
   {
     "guid": {
-      "a": "988b1ed0-6843-c1b0-ad15-ca10e9baf0b6",
+      "a": "cd673810-6e7a-4684-aecf-cb3071b3b36f",
       "b": ""
     },
     "extraType": "ResItemMP3",
-    "name": "explosion",
+    "name": "Lose sound 23",
     "expandInPanel": false,
-    "objGuid": "Guid(6291254160487725354, 14434928897545342627)",
+    "objGuid": "Guid(9676929029227059774, 10752423131807337875)",
     "rttiType": "AudioClip",
     "version": "0.1.0",
     "isVisibleInInspector": true,

@@ -7,7 +7,7 @@
     "extraType": "ResItemMP3",
     "name": "Notification sound 16",
     "expandInPanel": true,
-    "objGuid": "Guid(14502153345732307331, 9074905955370484101)",
+    "objGuid": "Guid(11188640646229532413, 6248513092142883488)",
     "rttiType": "AudioClip",
     "version": "0.1.0",
     "isVisibleInInspector": true,
