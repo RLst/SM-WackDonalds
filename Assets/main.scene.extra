@@ -102,6 +102,34 @@
   },
   {
     "guid": {
+      "a": "5a36b32a-5252-ebc5-10d0-96273e995755",
+      "b": ""
+    },
+    "objGuid": "Guid(13421381348779326155, 18376516163154092207)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "AddObject",
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
       "a": "805c5295-1e50-afa3-5f2b-0457bb168c61",
       "b": ""
     },
@@ -450,7 +478,7 @@
     "hideInPanel": false,
     "createdBy": "LegacyProject",
     "displayKey": "component_canvas",
-    "expanded": false,
+    "expanded": true,
     "editable": true
   },
   {
@@ -1630,7 +1658,7 @@
     "isVisibleInInspector": true,
     "hideInPanel": false,
     "createdBy": "Duplicate",
-    "expanded": true,
+    "expanded": false,
     "type": "none",
     "createdEffectNodeKey": ""
   },
@@ -1650,7 +1678,7 @@
     "displayKey": "inspector_add_image",
     "expanded": true,
     "editable": true,
-    "advanced": false,
+    "advanced": true,
     "texture": "00000000-0000-0000-0000-00000000003e",
     "textureType": "ResItemPNGImage"
   },
@@ -1881,7 +1909,7 @@
     "isVisibleInInspector": true,
     "hideInPanel": false,
     "createdBy": "Duplicate",
-    "expanded": true,
+    "expanded": false,
     "type": "none",
     "createdEffectNodeKey": ""
   },
@@ -1901,7 +1929,7 @@
     "displayKey": "inspector_add_image",
     "expanded": true,
     "editable": true,
-    "advanced": false,
+    "advanced": true,
     "texture": "00000000-0000-0000-0000-00000000003e",
     "textureType": "ResItemPNGImage"
   },
@@ -1975,7 +2003,7 @@
     "isVisibleInInspector": true,
     "hideInPanel": false,
     "createdBy": "Duplicate",
-    "expanded": true,
+    "expanded": false,
     "type": "none",
     "createdEffectNodeKey": ""
   },
@@ -1995,7 +2023,7 @@
     "displayKey": "inspector_add_image",
     "expanded": true,
     "editable": true,
-    "advanced": false,
+    "advanced": true,
     "texture": "00000000-0000-0000-0000-00000000003e",
     "textureType": "ResItemPNGImage"
   },
@@ -2032,7 +2060,7 @@
     "isVisibleInInspector": true,
     "hideInPanel": false,
     "createdBy": "LegacyProject",
-    "expanded": true,
+    "expanded": false,
     "type": "none",
     "createdEffectNodeKey": ""
   },
@@ -2052,7 +2080,7 @@
     "displayKey": "inspector_add_image",
     "expanded": true,
     "editable": true,
-    "advanced": false,
+    "advanced": true,
     "texture": "00000000-0000-0000-0000-00000000003e",
     "textureType": "ResItemPNGImage"
   },
@@ -2163,7 +2191,7 @@
     "isVisibleInInspector": true,
     "hideInPanel": false,
     "createdBy": "Duplicate",
-    "expanded": true,
+    "expanded": false,
     "type": "none",
     "createdEffectNodeKey": ""
   },
@@ -2183,7 +2211,7 @@
     "displayKey": "inspector_add_image",
     "expanded": true,
     "editable": true,
-    "advanced": false,
+    "advanced": true,
     "texture": "00000000-0000-0000-0000-00000000003e",
     "textureType": "ResItemPNGImage"
   },
@@ -2257,7 +2285,7 @@
     "isVisibleInInspector": true,
     "hideInPanel": false,
     "createdBy": "Duplicate",
-    "expanded": true,
+    "expanded": false,
     "type": "none",
     "createdEffectNodeKey": ""
   },
@@ -2277,7 +2305,7 @@
     "displayKey": "inspector_add_image",
     "expanded": true,
     "editable": true,
-    "advanced": false,
+    "advanced": true,
     "texture": "00000000-0000-0000-0000-00000000003e",
     "textureType": "ResItemPNGImage"
   },
@@ -3074,5 +3102,42 @@
     "expanded": true,
     "editable": true,
     "anchorType": "Custom Point"
+  },
+  {
+    "guid": {
+      "a": "56ebbfac-0bb5-d23e-6e1f-e95d53595ea5",
+      "b": ""
+    },
+    "objGuid": "Guid(10322771231879560645, 4959719797226688929)",
+    "extraType": "Entity",
+    "name": "Items Root",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "AddObject",
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_2D_foreground"
+  },
+  {
+    "guid": {
+      "a": "cd4705b9-37ef-c294-00e7-017bbffe6990",
+      "b": ""
+    },
+    "objGuid": "Guid(4270408177751361985, 3805464425024091287)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "AddObject",
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": true,
+    "texture": "00000000-0000-0000-0000-00000000003e",
+    "textureType": "ResItemPNGImage"
   }
 ]
