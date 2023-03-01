@@ -1,0 +1,20 @@
+[
+  {
+    "guid": {
+      "a": "8939f3e3-6c16-4a0d-3ebe-771f04ea6526",
+      "b": ""
+    },
+    "extraType": "ResItemTextureSequence",
+    "name": "fireworks",
+    "expandInPanel": false,
+    "objGuid": "Guid(13925200080726646260, 187571724579443852)",
+    "rttiType": "AnimSeq",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Unregistered",
+    "compressionType": 1,
+    "quality": 2,
+    "maxResolution": 512
+  }
+]

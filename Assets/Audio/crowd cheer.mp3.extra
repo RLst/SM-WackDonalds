@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "2a14b83f-9ad7-67cc-9495-1b5c824685ef",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "crowd cheer",
+    "expandInPanel": false,
+    "objGuid": "Guid(16883606587752353825, 9900395429614770052)",
+    "rttiType": "AudioClip",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Unregistered",
+    "mccState": "SUCCESS"
+  }
+]

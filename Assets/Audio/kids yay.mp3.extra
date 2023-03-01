@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "3fbe672d-dc64-efb6-5f5c-a55c9ed975d5",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "kids yay",
+    "expandInPanel": false,
+    "objGuid": "Guid(7296264573693799705, 15583628437538172300)",
+    "rttiType": "AudioClip",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Unregistered",
+    "mccState": "SUCCESS"
+  }
+]

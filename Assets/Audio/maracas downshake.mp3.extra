@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "1cc7ca5a-d14b-42e4-1d23-b717d97cef84",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "maracas downshake",
+    "expandInPanel": false,
+    "objGuid": "Guid(5926762882124655503, 5608537865659123095)",
+    "rttiType": "AudioClip",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Unregistered",
+    "mccState": "SUCCESS"
+  }
+]

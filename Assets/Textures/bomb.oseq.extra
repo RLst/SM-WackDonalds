@@ -7,7 +7,7 @@
     "extraType": "ResItemTextureSequence",
     "name": "bomb",
     "expandInPanel": false,
-    "objGuid": "Guid(3191290824509172640, 5758255327820470973)",
+    "objGuid": "Guid(2541701450795685416, 16193744202770170813)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,

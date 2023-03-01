@@ -1299,6 +1299,34 @@
   },
   {
     "guid": {
+      "a": "a3986309-f226-8c84-ff15-e49a7dc0355b",
+      "b": ""
+    },
+    "objGuid": "Guid(17241022964985628898, 12322184651884349842)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Duplicate",
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
       "a": "ad235f93-2091-7a1d-71b6-f8ccb8c0fc82",
       "b": ""
     },
@@ -2809,7 +2837,7 @@
     "displayKey": "component_aniseq",
     "expanded": true,
     "editable": true,
-    "sequence": "5d313645-7ead-c012-02a5-f4eeafe4f977",
+    "sequence": "00000000-0000-0000-0000-00000000006c",
     "targetProperty": "Albedo",
     "playMode": 0
   },
@@ -2991,5 +3019,62 @@
     "expanded": true,
     "editable": true,
     "anchorType": "Custom Point"
+  },
+  {
+    "guid": {
+      "a": "8d7b47ab-90a7-4e0c-47ae-5c11b01d3f05",
+      "b": ""
+    },
+    "objGuid": "Guid(5929279860994068647, 6811639432224740245)",
+    "extraType": "Entity",
+    "name": "Fireworks",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Duplicate",
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "ca17e062-b71e-797a-0ec0-269f59598a1c",
+      "b": ""
+    },
+    "objGuid": "Guid(2326879213683481707, 15288461010260399494)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Duplicate",
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": false,
+    "texture": "eb90a3bb-8662-bc1b-e314-003e900d2439",
+    "textureType": "ResItemPNGImage"
+  },
+  {
+    "guid": {
+      "a": "a814b8b2-3478-a865-434e-73a741b6f5e9",
+      "b": ""
+    },
+    "objGuid": "Guid(884120818456827834, 9698593640762556561)",
+    "extraType": "AnimationSequence",
+    "name": "Animation Sequence",
+    "rttiType": "AnimSeqComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "AddComponent",
+    "displayKey": "component_aniseq",
+    "expanded": true,
+    "editable": true,
+    "sequence": "8939f3e3-6c16-4a0d-3ebe-771f04ea6526",
+    "targetProperty": "Albedo",
+    "playMode": 1
   }
 ]
