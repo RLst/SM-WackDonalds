@@ -1,20 +1,20 @@
 [
   {
     "guid": {
-      "a": "ac36dfc0-887b-c1e6-88b8-22adb820b34c",
+      "a": "646c0589-12f8-9be3-b1dc-04af01c94575",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
-    "name": "ui panel reset",
+    "name": "tap to retry",
     "expandInPanel": false,
-    "objGuid": "Guid(2760617625394141187, 5207724495273746322)",
+    "objGuid": "Guid(3841416396331576892, 13038588222496053888)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
     "createdBy": "Unregistered",
-    "compressionType": 0,
-    "quality": 0,
+    "compressionType": 1,
+    "quality": 1,
     "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,
