@@ -7,7 +7,7 @@
     "extraType": "ResItemMP3",
     "name": "crowd cheer",
     "expandInPanel": false,
-    "objGuid": "Guid(16883606587752353825, 9900395429614770052)",
+    "objGuid": "Guid(1751335451814124303, 6848258756320692909)",
     "rttiType": "AudioClip",
     "version": "0.1.0",
     "isVisibleInInspector": true,

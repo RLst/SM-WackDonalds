@@ -7,7 +7,7 @@
     "extraType": "ResItemTextureSequence",
     "name": "cheeseburger",
     "expandInPanel": false,
-    "objGuid": "Guid(6435028589243328596, 6978238287186598809)",
+    "objGuid": "Guid(9457568700941400779, 7714055356085008256)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,
