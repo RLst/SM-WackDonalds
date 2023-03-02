@@ -512,7 +512,7 @@
     "isVisibleInInspector": true,
     "hideInPanel": false,
     "createdBy": "LegacyProject",
-    "expanded": true,
+    "expanded": false,
     "type": "none",
     "createdEffectNodeKey": ""
   },
@@ -522,34 +522,6 @@
       "b": ""
     },
     "objGuid": "Guid(598013202989638469, 16123557111680057757)",
-    "extraType": "IFTransform2d",
-    "name": "2D Transform",
-    "eulerAngle": [
-      0,
-      0,
-      0
-    ],
-    "rotation": [
-      0,
-      0,
-      0,
-      1
-    ],
-    "rttiType": "IFTransform2d",
-    "version": "0.1.0",
-    "isVisibleInInspector": true,
-    "hideInPanel": false,
-    "createdBy": "LegacyProject",
-    "displayKey": "inspector_add_2dtransform",
-    "expanded": true,
-    "editable": true
-  },
-  {
-    "guid": {
-      "a": "6b7128f6-876a-6bc2-646d-03ecca88f67f",
-      "b": ""
-    },
-    "objGuid": "Guid(2255212455909766251, 13863133538586695833)",
     "extraType": "IFTransform2d",
     "name": "2D Transform",
     "eulerAngle": [
@@ -736,6 +708,62 @@
     "isVisibleInInspector": true,
     "hideInPanel": false,
     "createdBy": "AddObject",
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "d8bdde19-886d-d1c1-e8a1-905abae327d6",
+      "b": ""
+    },
+    "objGuid": "Guid(1460950661108398574, 10018560562408841141)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Duplicate",
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "6b7128f6-876a-6bc2-646d-03ecca88f67f",
+      "b": ""
+    },
+    "objGuid": "Guid(2255212455909766251, 13863133538586695833)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "LegacyProject",
     "displayKey": "inspector_add_2dtransform",
     "expanded": true,
     "editable": true
@@ -1034,7 +1062,7 @@
     "isVisibleInInspector": true,
     "hideInPanel": false,
     "createdBy": "LegacyProject",
-    "expanded": true,
+    "expanded": false,
     "type": "none",
     "createdEffectNodeKey": ""
   },
@@ -3055,7 +3083,7 @@
     },
     "objGuid": "Guid(2399949210859249940, 10483600998452166289)",
     "extraType": "Entity",
-    "name": "Eating Squirts",
+    "name": "Eating Debris",
     "rttiType": "Entity",
     "version": "0.1.0",
     "isVisibleInInspector": true,
@@ -3139,5 +3167,62 @@
     "advanced": true,
     "texture": "00000000-0000-0000-0000-00000000003e",
     "textureType": "ResItemPNGImage"
+  },
+  {
+    "guid": {
+      "a": "59ad75b3-4066-575a-61cd-a3e6bcc5b953",
+      "b": ""
+    },
+    "objGuid": "Guid(10035300826798616349, 6753594968018137985)",
+    "extraType": "Entity",
+    "name": "Explosion",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Duplicate",
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_2D_foreground"
+  },
+  {
+    "guid": {
+      "a": "794f384f-be8f-fe9f-c5c7-a97ae6df29d2",
+      "b": ""
+    },
+    "objGuid": "Guid(3838631567362422114, 13647955359596504481)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Duplicate",
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": false,
+    "texture": "00000000-0000-0000-0000-000000000021",
+    "textureType": "ResItemPNGImage"
+  },
+  {
+    "guid": {
+      "a": "5e6674bb-fa57-92d4-953a-85e5e06b17c8",
+      "b": ""
+    },
+    "objGuid": "Guid(8812171524739514121, 15752704505688682398)",
+    "extraType": "AnimationSequence",
+    "name": "Animation Sequence",
+    "rttiType": "AnimSeqComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "AddComponent",
+    "displayKey": "component_aniseq",
+    "expanded": true,
+    "editable": true,
+    "sequence": "9638439d-f8fa-76af-4da8-334a4d903d05",
+    "targetProperty": "Albedo",
+    "playMode": 0
   }
 ]

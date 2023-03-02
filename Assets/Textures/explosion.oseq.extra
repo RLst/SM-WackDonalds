@@ -1,0 +1,20 @@
+[
+  {
+    "guid": {
+      "a": "9638439d-f8fa-76af-4da8-334a4d903d05",
+      "b": ""
+    },
+    "extraType": "ResItemTextureSequence",
+    "name": "explosion",
+    "expandInPanel": false,
+    "objGuid": "Guid(11477970498011418926, 4118898326459398331)",
+    "rttiType": "AnimSeq",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Unregistered",
+    "compressionType": 1,
+    "quality": 1,
+    "maxResolution": 512
+  }
+]
