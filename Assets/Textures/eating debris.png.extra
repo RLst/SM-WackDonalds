@@ -7,7 +7,7 @@
     "extraType": "ResItemPNGImage",
     "name": "eating debris",
     "expandInPanel": false,
-    "objGuid": "Guid(2614539914779222587, 8872741069000764820)",
+    "objGuid": "Guid(14432749507475689899, 10309895916392363431)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

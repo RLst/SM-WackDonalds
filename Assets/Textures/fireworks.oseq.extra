@@ -7,7 +7,7 @@
     "extraType": "ResItemTextureSequence",
     "name": "fireworks",
     "expandInPanel": false,
-    "objGuid": "Guid(8665894300666306912, 9215197893490752431)",
+    "objGuid": "Guid(18248673600556403524, 8960104775258634915)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,

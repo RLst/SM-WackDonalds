@@ -7,7 +7,7 @@
     "extraType": "ResItemPNGImage",
     "name": "show face gauge",
     "expandInPanel": false,
-    "objGuid": "Guid(18115784198689138, 7918707933204426156)",
+    "objGuid": "Guid(6721712988519777051, 702336199390639514)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

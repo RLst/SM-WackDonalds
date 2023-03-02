@@ -7,7 +7,7 @@
     "extraType": "ResItemMP3",
     "name": "eaten",
     "expandInPanel": true,
-    "objGuid": "Guid(2541488929632494543, 8259539482931676034)",
+    "objGuid": "Guid(12486392868221186004, 6158542252494725280)",
     "rttiType": "AudioClip",
     "version": "0.1.0",
     "isVisibleInInspector": true,

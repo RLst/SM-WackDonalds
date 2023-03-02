@@ -7,7 +7,7 @@
     "extraType": "ResItemPNGImage",
     "name": "show face",
     "expandInPanel": false,
-    "objGuid": "Guid(3333724027919906264, 5595069148451164312)",
+    "objGuid": "Guid(5424221112082621521, 17108304185774010752)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

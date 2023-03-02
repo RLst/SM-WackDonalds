@@ -7,7 +7,7 @@
     "extraType": "ResItemPNGImage",
     "name": "tap to retry",
     "expandInPanel": false,
-    "objGuid": "Guid(15369778418709221321, 12782266556918566061)",
+    "objGuid": "Guid(1246248444499576435, 17049413549487465125)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
