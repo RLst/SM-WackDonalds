@@ -1912,7 +1912,7 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: 108a971d-9c5e-5def-0757-b765fc65ded8--108a971d-9c5e-5def-0757-b765fc65ded8.png}
+        texture: {localId: 1, path: 00000000-0000-0000-0000-00000000001e--00000000-0000-0000-0000-00000000001e.png}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -2009,8 +2009,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/8939f3e3-6c16-4a0d-3ebe-771f04ea6526/13.png}
-        imageAtlas: {localId: 1, path: 8939f3e3-6c16-4a0d-3ebe-771f04ea6526--13.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/8939f3e3-6c16-4a0d-3ebe-771f04ea6526/7.png}
+        imageAtlas: {localId: 1, path: 8939f3e3-6c16-4a0d-3ebe-771f04ea6526--7.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType

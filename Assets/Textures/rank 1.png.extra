@@ -1,20 +1,20 @@
 [
   {
     "guid": {
-      "a": "3a85444b-5a16-8aa9-b934-f8a31a4c1e7c",
+      "a": "ad460bb7-4079-0f08-0b40-90f6ffedfa43",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
     "name": "rank 1",
     "expandInPanel": false,
-    "objGuid": "Guid(8739323316304356327, 14533275573251271069)",
+    "objGuid": "Guid(4703577379124078614, 11391255953174659992)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
     "createdBy": "Unregistered",
-    "compressionType": 1,
-    "quality": 1,
+    "compressionType": 0,
+    "quality": 0,
     "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,
