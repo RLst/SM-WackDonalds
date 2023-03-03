@@ -433,7 +433,7 @@ entities:
           value: Metal
     layer: 0
   - __class: Entity
-    name: Item Collider 1
+    name: Food Collider 1
     guid: {a: 11043644357575484811, b: 4883084581616782525}
     scene: {localId: 1}
     selfvisible: false
@@ -484,7 +484,7 @@ entities:
         freeInited: false
     layer: 1
   - __class: Entity
-    name: Item 1
+    name: Food 1
     guid: {a: 12055913225128420320, b: 15588967936413263026}
     scene: {localId: 1}
     selfvisible: true
@@ -679,7 +679,7 @@ entities:
         isRootCamera: false
     layer: 0
   - __class: Entity
-    name: Item Collider 4
+    name: Bomb Collider 1
     guid: {a: 18468533371072604, b: 8766365853903746195}
     scene: {localId: 1}
     selfvisible: false
@@ -730,7 +730,7 @@ entities:
         freeInited: false
     layer: 1
   - __class: Entity
-    name: Item 4
+    name: Bomb 1
     guid: {a: 1749776446125956956, b: 8703527987125562281}
     scene: {localId: 1}
     selfvisible: true
@@ -800,7 +800,7 @@ entities:
           bomb: {localId: 11, path: b6ce1c43-615f-e7f6-57af-10773889166e--b6ce1c43-615f-e7f6-57af-10773889166e.seq}
     layer: 1
   - __class: Entity
-    name: Item Collider 5
+    name: Bomb Collider 0
     guid: {a: 14073320491748941365, b: 3080069547944285860}
     scene: {localId: 1}
     selfvisible: false
@@ -851,7 +851,7 @@ entities:
         freeInited: false
     layer: 1
   - __class: Entity
-    name: Item 5
+    name: Bomb 0
     guid: {a: 1031163883636640882, b: 4025635025988828814}
     scene: {localId: 1}
     selfvisible: true
@@ -921,7 +921,7 @@ entities:
           bomb: {localId: 11, path: b6ce1c43-615f-e7f6-57af-10773889166e--b6ce1c43-615f-e7f6-57af-10773889166e.seq}
     layer: 1
   - __class: Entity
-    name: Item 0
+    name: Food 0
     guid: {a: 5639395366123622342, b: 893781392636952718}
     scene: {localId: 1}
     selfvisible: true
@@ -991,7 +991,7 @@ entities:
           burger: {localId: 18, path: fb9d2911-4556-c10e-7aa6-24fa9a594aff--fb9d2911-4556-c10e-7aa6-24fa9a594aff.seq}
     layer: 1
   - __class: Entity
-    name: Item Collider 0
+    name: Food Collider 0
     guid: {a: 5208574691224362333, b: 3670719594943254400}
     scene: {localId: 1}
     selfvisible: false
@@ -1042,7 +1042,7 @@ entities:
         freeInited: false
     layer: 1
   - __class: Entity
-    name: Item Collider 2
+    name: Food Collider 2
     guid: {a: 12918465157796301421, b: 4122668812089147826}
     scene: {localId: 1}
     selfvisible: false
@@ -1093,7 +1093,7 @@ entities:
         freeInited: false
     layer: 1
   - __class: Entity
-    name: Item 2
+    name: Food 2
     guid: {a: 16379392184460962739, b: 18175429465388504753}
     scene: {localId: 1}
     selfvisible: true
@@ -1163,7 +1163,7 @@ entities:
           fries: {localId: 18, path: 5b437f3b-bed5-6c62-ac8b-7cdffdd9dddb--5b437f3b-bed5-6c62-ac8b-7cdffdd9dddb.seq}
     layer: 1
   - __class: Entity
-    name: Item Collider 3
+    name: Food Collider 3
     guid: {a: 17459165468209234839, b: 2623269696283554494}
     scene: {localId: 1}
     selfvisible: false
@@ -1214,7 +1214,7 @@ entities:
         freeInited: false
     layer: 1
   - __class: Entity
-    name: Item 3
+    name: Food 3
     guid: {a: 13351015724621968146, b: 5068813455651040439}
     scene: {localId: 1}
     selfvisible: true
@@ -2052,8 +2052,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/ca93559b-53c2-7c92-323b-63135f53b72c/3.png}
-        imageAtlas: {localId: 3, path: ca93559b-53c2-7c92-323b-63135f53b72c--3.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/ca93559b-53c2-7c92-323b-63135f53b72c/0.png}
+        imageAtlas: {localId: 3, path: ca93559b-53c2-7c92-323b-63135f53b72c--0.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType

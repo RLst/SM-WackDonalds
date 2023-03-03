@@ -1,6 +1,6 @@
 {
   "name": "Fast Food Fury",
-  "lastModified": "Fri, 03 Mar 2023 03:46:00 GMT",
+  "lastModified": "Fri, 03 Mar 2023 05:52:13 GMT",
   "version": "2.0.0",
   "internalVersion": "0.15.0",
   "toolName": "Effect House",
@@ -77,9 +77,9 @@
     "62": "Layer 62",
     "63": "Layer 63"
   },
-  "durationToCreate": 4999945749,
-  "durationCreation": 677688842,
-  "durationBackground": 570873594,
+  "durationToCreate": 5007518307,
+  "durationCreation": 685261400,
+  "durationBackground": 576941758,
   "effectHint": "show_your_face",
   "templateID": "templateID_none",
   "overwriteBuiltinGAN": true,
