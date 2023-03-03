@@ -512,7 +512,7 @@
     "isVisibleInInspector": true,
     "hideInPanel": false,
     "createdBy": "LegacyProject",
-    "expanded": true,
+    "expanded": false,
     "type": "none",
     "createdEffectNodeKey": ""
   },
@@ -662,6 +662,34 @@
       "b": ""
     },
     "objGuid": "Guid(6937382539564380724, 16855499590410280872)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Duplicate",
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "c9100b39-baa2-4097-1559-7ec098f67a53",
+      "b": ""
+    },
+    "objGuid": "Guid(1388375821254972541, 6773973769099445435)",
     "extraType": "IFTransform2d",
     "name": "2D Transform",
     "eulerAngle": [
@@ -3244,5 +3272,42 @@
     "sequence": "9638439d-f8fa-76af-4da8-334a4d903d05",
     "targetProperty": "Albedo",
     "playMode": 0
+  },
+  {
+    "guid": {
+      "a": "1fab9864-12e8-20e6-f14d-09f1caafcd2b",
+      "b": ""
+    },
+    "objGuid": "Guid(4559152945383757809, 18221842668296099980)",
+    "extraType": "Entity",
+    "name": "Instruction Prompt",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Duplicate",
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "52c0c8b4-0494-1cf3-6e43-e949ab97b263",
+      "b": ""
+    },
+    "objGuid": "Guid(11622570887978011923, 16582203957225242552)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Duplicate",
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": true,
+    "texture": "edb4be95-c909-22aa-d064-47279ac83511",
+    "textureType": "ResItemPNGImage"
   }
 ]
