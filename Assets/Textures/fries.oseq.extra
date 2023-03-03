@@ -7,7 +7,7 @@
     "extraType": "ResItemTextureSequence",
     "name": "fries",
     "expandInPanel": false,
-    "objGuid": "Guid(7224899733974129370, 16335513675870021011)",
+    "objGuid": "Guid(8163761812340695864, 13690328093563043247)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,

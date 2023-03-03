@@ -7,7 +7,7 @@
     "extraType": "ResItemPNGImage",
     "name": "bg 2",
     "expandInPanel": false,
-    "objGuid": "Guid(8954180275967975323, 1343530185731370917)",
+    "objGuid": "Guid(17745775422703270561, 1700080635698572714)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

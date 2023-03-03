@@ -7,7 +7,7 @@
     "extraType": "ResItemSegmentationAsset",
     "name": "Portrait Segmentation Texture",
     "expandInPanel": true,
-    "objGuid": "Guid(5714957995359248498, 12789053015444115881)",
+    "objGuid": "Guid(5569549030113274129, 17812140437197257639)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

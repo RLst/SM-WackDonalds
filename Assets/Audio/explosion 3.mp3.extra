@@ -7,7 +7,7 @@
     "extraType": "ResItemMP3",
     "name": "explosion 3",
     "expandInPanel": false,
-    "objGuid": "Guid(4488252306678082484, 16515307521906666385)",
+    "objGuid": "Guid(8307458887562487830, 5802810095664014731)",
     "rttiType": "AudioClip",
     "version": "0.1.0",
     "isVisibleInInspector": true,

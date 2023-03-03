@@ -7,7 +7,7 @@
     "extraType": "ResItemMP3",
     "name": "bite",
     "expandInPanel": true,
-    "objGuid": "Guid(8162796201932080357, 12177504274546563243)",
+    "objGuid": "Guid(17097346388533481924, 13499915875785459893)",
     "rttiType": "AudioClip",
     "version": "0.1.0",
     "isVisibleInInspector": true,

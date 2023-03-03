@@ -1355,6 +1355,26 @@
   },
   {
     "guid": {
+      "a": "aa6887c7-0eeb-4d23-1f98-6386b2dfec9c",
+      "b": ""
+    },
+    "objGuid": "Guid(12054627281344968704, 5460290228719279529)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "AddComponent",
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": false,
+    "texture": "00000000-0000-0000-0000-00000000003e",
+    "textureType": "ResItemPNGImage"
+  },
+  {
+    "guid": {
       "a": "05e33b70-370b-2666-368a-89c618195bff",
       "b": ""
     },
@@ -3035,7 +3055,7 @@
     "displayKey": "component_aniseq",
     "expanded": true,
     "editable": true,
-    "sequence": "8939f3e3-6c16-4a0d-3ebe-771f04ea6526",
+    "sequence": "ca93559b-53c2-7c92-323b-63135f53b72c",
     "targetProperty": "Albedo",
     "playMode": 1
   },
